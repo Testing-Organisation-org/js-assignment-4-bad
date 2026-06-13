@@ -66,6 +66,4 @@ function task9() {
     return cube;
 }
 
-module.exports = {
-    task1, task2, task3Part1, task3Part2, task4, task5, task6, task7, task8, task9
-};
+
